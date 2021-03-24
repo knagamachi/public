@@ -24,3 +24,4 @@ ipyvolume
 scipy
 voila
 voila-material
+voila-gridstack
