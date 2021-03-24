@@ -14,13 +14,13 @@ python-dateutil==2.8.1    # via matplotlib, pandas
 pytz==2020.1              # via pandas
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
-<<<<<<< HEAD
+
 ipywidgets
 IPython
-=======
+
 bqplot
 ipympl
 ipyvolume
 scipy
 voila
->>>>>>> 41bc4c6fffa067463fbfd4b2f0c7823b098ade32
+
