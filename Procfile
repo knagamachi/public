@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True NPB110_GER_MANUT/atividades/03_maq_reserv.ipynb
+web: voila --port=$PORT --no-browser --template=dark --enable_nbextensions=True
